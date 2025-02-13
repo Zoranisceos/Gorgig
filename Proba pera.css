@@ -1,0 +1,27 @@
+
+div {
+    color: blueviolet;
+    font-style: italic;
+    text-align: center;
+    margin: 20px 40px 30px;
+    border: 1px solid black;
+    background-image: url("https://html5book.ru/wp-content/uploads/2015/07/background47.jpg");
+    /*background-size: cover;*/
+    /* background-color: powderblue;*/
+    padding: 8px;
+  }
+
+  .smoothzoom:hover { 
+  transform: scale(65%);
+  opacity: 0.8;
+  }
+  .smoothzoom {
+    transition: transform 1s;
+  }
+
+ 
+  
+  
+
+
+
